@@ -151,7 +151,9 @@ h6 {
 .navbar li {
   position: relative;
 }
-
+.small-red-pilgrim{
+  max-width:7%;
+}
 .navbar>ul>li {
   white-space: nowrap;
   padding: 10px 0 10px 24px;
