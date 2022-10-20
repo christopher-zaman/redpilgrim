@@ -128,7 +128,12 @@ h6 {
   #header #logo img {
     max-height: 40px;
   }
+  #clients {
+    display:none;
+  }
 }
+
+
 
 /*--------------------------------------------------------------
 # Navigation Menu
