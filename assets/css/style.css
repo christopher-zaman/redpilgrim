@@ -51,7 +51,7 @@ h6 {
 --------------------------------------------------------------*/
 .back-to-top {
   position: fixed;
-  background: linear-gradient(45deg, #1de099, #1dc8cd);
+  background: linear-gradient(45deg, #000000, #c71919);
   color: #fff;
   border-radius: 4px 4px 0 0;
   right: 15px;
@@ -631,8 +631,8 @@ section {
 #about {
   padding: 60px 0;
   overflow: hidden;
-  height: 1476px;
-  background: url(../images/second-bg.jpg);
+  height: 1000px;
+  background: url(../images/second-background.png);
 }
 
 #about .about-img {
@@ -1262,7 +1262,8 @@ section {
   font-weight: 300;
   letter-spacing: 3px;
   text-transform: uppercase;
-  color: #1dc8cd;
+  color: #c71919;
+
 }
 
 #contact .contact-about p {
@@ -1279,14 +1280,14 @@ section {
 #contact .social-links a {
   font-size: 18px;
   background: #fff;
-  color: #1dc8cd;
+  color: #c71919;
   padding: 8px 0;
   margin-right: 4px;
   border-radius: 50%;
   width: 36px;
   height: 36px;
   transition: 0.3s;
-  border: 1px solid #1dc8cd;
+  border: 1px solid #c71919;
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -1297,7 +1298,7 @@ section {
 }
 
 #contact .social-links a:hover {
-  background: #1dc8cd;
+  background: #c71919;
   color: #fff;
 }
 
@@ -1307,7 +1308,7 @@ section {
 
 #contact .info i {
   font-size: 32px;
-  color: #1dc8cd;
+  color: #c71919;
   float: left;
   line-height: 0;
 }
@@ -1365,11 +1366,11 @@ section {
 
 #contact .php-email-form input::focus,
 #contact .php-email-form textarea::focus {
-  background-color: #1dc8cd;
+  background-color: #c71919;
 }
 
 #contact .php-email-form button[type=submit] {
-  background: linear-gradient(45deg, #1de099, #1dc8cd);
+  background: linear-gradient(45deg, #000000, #c71919);
   border: 0;
   border-radius: 20px;
   padding: 8px 30px;
