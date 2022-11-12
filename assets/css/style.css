@@ -98,6 +98,10 @@ h6 {
   background: transparent;
 }
 
+#header.header-inner-page {
+background: linear-gradient(45deg,#000000, #e01d1d);
+}
+
 #header.header-scrolled {
   background: linear-gradient(45deg, #e01d1d, #000000);
   height: 70px;
